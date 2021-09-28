@@ -1,0 +1,6 @@
+E:\C# Projects\General C#\Tic Tac Toe\bin\Release\Tic Tac Toe.exe.config
+E:\C# Projects\General C#\Tic Tac Toe\bin\Release\Tic Tac Toe.exe
+E:\C# Projects\General C#\Tic Tac Toe\bin\Release\Tic Tac Toe.pdb
+E:\C# Projects\General C#\Tic Tac Toe\obj\Release\Tic Tac Toe.csproj.CoreCompileInputs.cache
+E:\C# Projects\General C#\Tic Tac Toe\obj\Release\Tic Tac Toe.exe
+E:\C# Projects\General C#\Tic Tac Toe\obj\Release\Tic Tac Toe.pdb
