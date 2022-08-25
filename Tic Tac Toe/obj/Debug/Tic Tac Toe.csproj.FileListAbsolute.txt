@@ -5,3 +5,10 @@ E:\C# Projects\General C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyRefer
 E:\C# Projects\General C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
 E:\C# Projects\General C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
 E:\C# Projects\General C#\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\C# Projects\CSharp Tick-Tac-Toe\CSharp-Tic-Tac-Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
